@@ -1,3 +1,6 @@
+SELECT * FROM employees;
+SELECT * FROM orders;
+
 UPDATE emplooyees 
 SET email_address = 'not available';
 
